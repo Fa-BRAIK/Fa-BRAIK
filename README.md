@@ -47,13 +47,9 @@
 ### 🛠️ UI libraries (Client side)
 
 <p align="center">
-  &emsp; 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </a> 
   &emsp;
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-      <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <a href="https://www.getbootstrap.com/" target="_blank"> 
+      <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a> 
   &emsp;
     <a href="https://vuetifyjs.com/" target="_blank"> 
