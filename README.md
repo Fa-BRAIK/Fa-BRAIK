@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!;You+want+to+know+a+little+secret?;I+love+coding;And+you+should+contact+me;So+that+we+can+work+together!+:\))](https://git.io/typing-svg)
 
-![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/languages.svg)
-
 ### 🛠️ Programming languages (Server side)
 
 <p align="center">
@@ -63,3 +61,5 @@
     </a> 
   &emsp;
 </p>
+
+![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/overview.svg) ![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/languages.svg)
