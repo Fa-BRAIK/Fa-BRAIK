@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/overview.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!;You+want+to+know+a+little+secret?;I+love+coding;And+you+should+contact+me;So+that+we+can+work+together!+:\))](https://git.io/typing-svg)
 
-![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/languages.svg)
 
 <!---
 Fa-BRAIK/Fa-BRAIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
