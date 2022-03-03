@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/overview.svg)
 
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/languages.svg)
 
 <!---
 Fa-BRAIK/Fa-BRAIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
