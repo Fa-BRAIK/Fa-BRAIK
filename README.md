@@ -52,7 +52,7 @@
   &emsp;
 </p>
 
-### 🛠️ UI libraries (Client side)
+### 🛠️ UI libraries / frameworks (Client side)
 
 <p align="center">
   &emsp;
