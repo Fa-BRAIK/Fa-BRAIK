@@ -10,6 +10,10 @@
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a> 
   &emsp; 
+    <a href="https://nodejs.org/" target="_blank"> 
+      <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    </a> 
+  &emsp; 
 </p>
 
 ### 🛠️ Programming languages (Client side)
@@ -30,6 +34,10 @@
 
 <p align="center">
   &emsp;
+    <a href="https://expressjs.com" target="_blank"> 
+      <img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white">
+    </a>
+  &emsp;
     <a href="https://laravel.com" target="_blank"> 
       <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     </a>
@@ -47,6 +55,14 @@
 ### 🛠️ UI libraries (Client side)
 
 <p align="center">
+  &emsp;
+    <a href="https://tailwindcss.com/" target="_blank"> 
+      <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </a>
+  &emsp;
+    <a href="https://sass-lang.com/" target="_blank"> 
+      <img alt="sass/scss" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+    </a> 
   &emsp;
     <a href="https://www.getbootstrap.com/" target="_blank"> 
       <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
