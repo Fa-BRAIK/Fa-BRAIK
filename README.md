@@ -14,6 +14,10 @@
       <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     </a> 
   &emsp; 
+  <a href="https://go.dev/" target="_blank"> 
+      <img alt="NodeJs" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    </a> 
+  &emsp; 
 </p>
 
 ### 🛠️ Programming languages (Client side)
