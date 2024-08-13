@@ -38,10 +38,6 @@
 
 <p align="center">
   &emsp;
-    <a href="https://expressjs.com" target="_blank"> 
-      <img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white">
-    </a>
-  &emsp;
     <a href="https://laravel.com" target="_blank"> 
       <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     </a>
@@ -66,10 +62,6 @@
   &emsp;
     <a href="https://sass-lang.com/" target="_blank"> 
       <img alt="sass/scss" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    </a> 
-  &emsp;
-    <a href="https://www.getbootstrap.com/" target="_blank"> 
-      <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a> 
   &emsp;
     <a href="https://vuetifyjs.com/" target="_blank"> 
