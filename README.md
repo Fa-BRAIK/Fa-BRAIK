@@ -64,10 +64,6 @@
       <img alt="sass/scss" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
     </a> 
   &emsp;
-    <a href="https://vuetifyjs.com/" target="_blank"> 
-      <img alt="Vuejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=">
-    </a> 
-  &emsp;
 </p>
 
 ![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/overview.svg) ![](https://github.com/Fa-BRAIK/github-stats/blob/master/generated/languages.svg)
