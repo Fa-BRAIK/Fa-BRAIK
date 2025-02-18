@@ -21,5 +21,5 @@
 [![Nuxtjs](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=35495E&logo=Nuxt.js&logoColor=00DC82&label=)](https://nuxt.com/)
 [![TailwindCss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[![Farouk's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Fa-BRAIK&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Farouk's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Fa-BRAIK&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Farouk's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Fa-BRAIK&show_icons=true&theme=github_dark&title_color=F24464&icon_color=F24464#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Farouk's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Fa-BRAIK&show_icons=true&theme=default&title_color=F24464&icon_color=F24464#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
