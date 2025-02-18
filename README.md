@@ -1,8 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://farouk.ca/images/logo/light-icon.png">
-    <img alt="Farouk Braik" src="https://farouk.ca/images/logo/full-icon.png" width="200px">
-  </picture>
+  <a href="https://farouk.ca">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://farouk.ca/images/logo/light-icon.png">
+      <img alt="Farouk Braik" src="https://farouk.ca/images/logo/full-icon.png" width="200px">
+    </picture>
+  </a>
 </p>
 
 
